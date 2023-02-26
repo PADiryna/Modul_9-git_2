@@ -1,0 +1,18 @@
+[
+    {
+     "id": 1,
+     "title": "The Forsyte Saga",
+     "ganre": "novel",
+     "author": "John Galsworthy",
+     "date": "1906—1921",
+     "description": "Describes the life of the wealthy Forsyte family"
+    },
+    {
+        "id": 2,
+        "title": "Three Men in a Boat",
+        "ganre": "story",
+        "author": "Jerome Klapka Jerome",
+        "date": "1889",
+        "description": "Report about boat trip on the river Thames"
+       }
+]
